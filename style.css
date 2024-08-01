@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.background {
+  background-color: #d2ddeb;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.qrimg {
+  width: ;
+  height: 200px;
+  /* border-radius: 20px; */
+}
+.wrapper {
+  width: 220px;
+  height: 359px;
+  background-color: white;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  padding: 15px;
+  border-radius: 20px;
+  margin: auto;
+}
+section {
+  width: 200px;
+  text-align: center;
+  font-weight: 700;
+}
+h6 {
+  color: gray;
+}
+h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
